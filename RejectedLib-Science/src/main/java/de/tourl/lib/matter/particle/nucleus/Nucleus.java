@@ -2,7 +2,6 @@ package de.tourl.lib.matter.particle.nucleus;
 
 import de.tourl.lib.matter.attributes.Charge;
 import de.tourl.lib.matter.attributes.Mass;
-import de.tourl.lib.matter.attributes.Spin;
 import de.tourl.lib.matter.particle.Particle;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
